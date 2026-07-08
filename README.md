@@ -96,15 +96,7 @@ A modern task management application built using **HTML**, **CSS**, and **Vanill
 
 ---
 
-# 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ahmed-elesnawy-15&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🏆 GitHub Trophies
 
@@ -116,15 +108,7 @@ A modern task management application built using **HTML**, **CSS**, and **Vanill
 
 ---
 
-# 📊 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-elesnawy-15&theme=tokyo-night"/>
-
-</div>
-
----
 
 # 🎯 2026 Goals
 
@@ -147,7 +131,7 @@ A modern task management application built using **HTML**, **CSS**, and **Vanill
 
 <!-- Replace with your actual LinkedIn URL -->
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/ahmed-elesnawy-1357a835b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
