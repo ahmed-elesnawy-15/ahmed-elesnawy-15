@@ -1,133 +1,68 @@
-<div align="center">
 
-# Hi 👋, I'm Ahmed Sabry Hamed
+# 👋 Hi, I'm Ahmed Sabry
 
-### 💻 Computer Science Student | Future Full-Stack Developer | MEAN Stack Learner
+### 💻 Full-Stack Web Developer | MEAN Stack Developer | NTI Trainee
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;JavaScript+Developer;Future+MEAN+Stack+Developer;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!" />
+I'm a passionate Computer Science student and Full-Stack Web Developer interested in building modern, responsive, and user-friendly web applications.
 
-</div>
-
----
-
-# 🚀 About Me
-
-🎓 Computer Science Student passionate about software development and problem solving.
-
-💻 I enjoy building responsive web applications and learning modern technologies.
-
-🌱 Currently learning **Node.js**, **Express.js**, **MongoDB**, and the **MEAN Stack**.
-
-🎯 My goal is to become a professional **Full-Stack Developer** and contribute to impactful software projects.
-
-⚡ I believe that consistency and continuous learning are the keys to success.
+Currently developing my skills in the **MEAN Stack** and exploring new technologies to become a better software engineer.
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 About Me
 
-### Languages
+- 🎓 Computer Science Student.
+- 💻 Full-Stack Web Developer.
+- 🌱 Currently learning and improving my MEAN Stack skills.
+- 🏢 Trainee at the National Telecommunication Institute (NTI).
+- 🧠 Interested in Problem Solving and Software Development.
+- 🎯 Always learning and building new projects.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python" />
-</p>
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
+HTML5 | CSS3 | JavaScript | Angular
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+### Backend
+Node.js | Express.js
 
-### Backend (Currently Learning)
+### Database
+MongoDB | SQL
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+### Programming Languages
+C++ | JavaScript | Python
 
 ### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+Git | GitHub | VS Code | Postman
 
 ---
 
-# 📚 Currently Learning
+## 📂 Featured Projects
 
-* Advanced JavaScript
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* Authentication & Authorization
-* Full MEAN Stack Development
+### 🛍️ Aura Shop – Fashion E-Commerce
+A modern fashion e-commerce website with a stylish interface and responsive design.
+
+### 💼 Personal Portfolio
+A personal portfolio showcasing my skills, experience, and development projects.
 
 ---
 
-# 📂 Featured Projects
+## 📊 GitHub Statistics
 
-## 📝 To-Do App
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-A modern task management application built using **HTML**, **CSS**, and **Vanilla JavaScript**.
-
-### Features
-
-* ✅ CRUD Operations
-* 🌙 Dark Mode
-* 🔍 Live Search
-* 📂 Task Filtering
-* ✔️ Complete Tasks
-* 📊 Statistics Dashboard
-* 💾 Local Storage
-* ⌨️ Keyboard Shortcuts
-* 📱 Responsive Design
-
-
-
-
-
-
-
-
-# 🎯 2026 Goals
-
-* 🚀 Master the MEAN Stack
-* 💼 Land a Software Engineering Internship
-* 🌍 Build real-world full-stack applications
-* ⭐ Contribute to Open Source
-* 📚 Strengthen Data Structures & Algorithms
-* 🏆 Solve 500+ programming problems
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-# 🌐 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/ahmed-elesnawy-15">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Replace with your actual LinkedIn URL -->
-
-<a href="https://www.linkedin.com/in/ahmed-elesnawy-1357a835b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+- LinkedIn: YOUR_LINKEDIN_URL
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: YOUR_EMAIL
 
 ---
 
-# 💭 Favorite Quote
-
-> **"Success isn't built in a day. It's built every day."**
-
----
-
-<div align="center">
-
-### ⭐ Thank you for visiting my profile!
-
-If you like my projects, consider giving them a ⭐.
-
-</div>
+⭐ *"Building, Learning, and Improving Every Day."*
