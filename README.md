@@ -62,9 +62,57 @@
 - Interactive user interface.
 - Smooth navigation and user experience.
 
-**Technologies Used**
-<!-- Replace with the actual project technologies -->
-HTML | CSS | JavaScript
+
+### 🛠️ Technologies Used
+
+Aura Shop is built using the **MEAN Stack (MongoDB, Express.js, Angular, and Node.js)**, with Stripe integration for secure online payment processing.
+
+**Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" />
+</p>
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Angular
+
+**Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- Node.js
+- Express.js
+- RESTful APIs
+
+**Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+- MongoDB
+- Mongoose
+
+**Payment Integration**
+<p>
+  <img src="https://skillicons.dev/icons?i=stripe" />
+</p>
+
+- Stripe API
+- Online Payment Integration
+
+**Development Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+- Git & GitHub
+- Visual Studio Code
+- Postman
+- npm
+
 
 **Project Links**
 - 🌐 Live Demo: [View Project](YOUR_LIVE_DEMO_URL)
@@ -72,16 +120,6 @@ HTML | CSS | JavaScript
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmed-elesnawy-15&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
